@@ -44,6 +44,6 @@ else {
 
 
 
-let result = confirm('Please enter on the tickets to finish the reservation  ?');
+let result = confirm('Please click on the tickets to finish the reservation  ?');
 
 
