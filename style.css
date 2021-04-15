@@ -9,7 +9,7 @@
   width: 100%;
   background-image:url(https://images.vexels.com/media/users/3/100898/preview2/bc6b9367bd27b5eb66c16617957c09ed-vector-seamless-abstract-pattern-background.jpg);
   background-position: center;
-  background-color: white;
+  background-color: indianred;
   background-size: cover;
   padding-left: -.5%;
   box-sizing: border-box;
@@ -131,9 +131,7 @@ nav  ul li a {
 }
 
 .copyrights{
-<<<<<<< HEAD
   padding-right:-30% ;
-=======
->>>>>>> 3e6261d3da9bad3fa8f5b184eb0c760fb415f096
   float: right;
 }
+
